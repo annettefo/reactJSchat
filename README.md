@@ -1,4 +1,4 @@
-*ReactJS Chat Application
+ReactJS Chat Application
 * Opensource Javascript Web App Framework
 * JSX (syntax): HTML  mixed with JS
 * Modular components
