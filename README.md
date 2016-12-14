@@ -1,10 +1,10 @@
-// ReactJS Chat Application
-// Opensource Javascript Web App Framework
-// JSX (syntax): HTML  mixed with JS
-// Modular components
-// One way data flow
-// Rich ecosystem - components, tools
-// Used by Facebook
+* ReactJS Chat Application
+* Opensource Javascript Web App Framework
+* JSX (syntax): HTML  mixed with JS
+* Modular components
+* One way data flow
+* Rich ecosystem - components, tools
+* Used by Facebook
 
 
 * Example Code
