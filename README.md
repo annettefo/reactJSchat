@@ -31,8 +31,8 @@ class MyApp extends Component {
 
 Begin by -
 
-cd <folder>
-npm start
+* cd <folder>
+* npm start
 
 
 To create a production build, use npm run build.
