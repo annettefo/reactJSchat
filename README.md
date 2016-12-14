@@ -1,4 +1,4 @@
-* ReactJS Chat Application
+*ReactJS Chat Application
 * Opensource Javascript Web App Framework
 * JSX (syntax): HTML  mixed with JS
 * Modular components
@@ -7,7 +7,7 @@
 * Used by Facebook
 
 
-* Example Code
+*Example Code
 // class to ask a user a question
 
 class MyApp extends Component {
